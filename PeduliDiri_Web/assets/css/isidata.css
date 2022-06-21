@@ -1,0 +1,54 @@
+#hero-content {
+}
+
+#form-label-input {
+  height: 42px;
+  /*width: 960px;*/
+  margin: 0px;
+  /*padding: 3px;*/
+}
+
+#label {
+  margin-left: 0px;
+  margin-right: 112px;
+  width: 60px;
+  height: 30px;
+  font-size: 25px;
+  font-family: Montserrat, sans-serif;
+  margin-top: 5px;
+}
+
+label {
+  /*display: inline-block;*/
+}
+
+#hero-container {
+  background: rgba(0,0,0,0.32);
+  height: 340px;
+  /*width: 1000px;*/
+  border-radius: 22px;
+}
+
+#heading {
+  text-align: center;
+}
+
+#dalem {
+}
+
+#input {
+  font-size: 14px;
+  font-family: Montserrat, sans-serif;
+  border-radius: -3px;
+  border-width: 0px;
+  border-color: rgba(0,0,0,0.58);
+}
+
+.anu {
+  width: 292px;
+}
+
+#anu2 {
+  margin-right: 51px;
+}
+

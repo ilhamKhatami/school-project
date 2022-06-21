@@ -1,0 +1,57 @@
+#hero {
+  width: 100%;
+  background: url("../../assets/img/red-pink-tower-blue-hat-old-vintage-camera-shells-wooden-floor-sunshine-blue-sky-ocean-background.jpg") center / cover no-repeat;
+}
+
+#hero {
+  width: 100%;
+  height: 100vh;
+}
+
+body {
+  background: rgb(0,0,0);
+  color: rgb(255,255,255);
+}
+
+.navbar-brand {
+  font-family: Aclonica, sans-serif;
+  font-size: 35px;
+  padding-left: 28px;
+}
+
+#title {
+  text-align: center;
+  color: rgb(0,0,0);
+}
+
+#subtitle {
+  color: rgb(0,0,0);
+  text-align: center;
+}
+
+#btn {
+}
+
+#btn-submit {
+}
+
+#btn-submit {
+  background: rgb(37,209,254);
+}
+
+#btnmasuk1 {
+  background: rgb(37,209,254);
+  height: 48px;
+}
+
+.navbar {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+  background: rgba(0,0,0,0.06);
+}
+

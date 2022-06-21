@@ -1,0 +1,25 @@
+12345|Ilham|2022-01-24|08:05|ciwareng|35 celcius
+12345|Ilham|2022-02-21|12:10|purwakarta|40
+4444|Anisa febrianti|2022-02-22|11:48|Dangdeur|34 celsius
+1111|Ilham noor khatami|2022-02-21|12:28|ciwareng rumah nisa|32 Celsius
+1111|Ilham noor khatami|2022-02-22|17:01|Jatiluhur|34 celsius
+1111|Ilham noor khatami|2022-02-23|16:55|Dangdeur|37.4
+1111|Ilham noor khatami|2022-02-17|14:55|purwakarta|40 Celsius
+1111|Ilham noor khatami|2022-02-01|05:00|Bandung|37 Celsius
+1234|ilham|2022-03-04|08:35|ciwareng|34.5 celsius
+1234|ilham|2022-03-04|08:38|purwakarta|45 celsius
+1234|ilham|2022-03-01|08:40|smk bina kerja|38.9 celsius
+1122|rasyid|2022-03-05|11:26|bina kerja|34.5 celsius
+1111|Ilham noor khatami|2022-03-05|11:29|Cibeureum|37.5 celsius
+123456|Anisa|2022-02-28|11:17|bandung|36.2
+123456|Anisa|2022-03-08|00:47|bandung|36.2
+123456|Anisa|2022-03-23|12:49|jakarta|34
+123456|Anisa|2022-03-09|14:50|Ciwareng|35
+123456|Anisa|2022-03-04|14:49|Cibening|36
+123456|Anisa|2022-03-01|17:49|Buana|35.5
+123456|Anisa|2022-03-09|12:54|ggg|36
+123456|Anisa|2022-03-05|12:55|bali|35
+123456|Anisa|2022-03-03|14:53|cipularang|36
+123456|Anisa|2022-03-03|14:53|cipularang|36
+2323|nia|2022-03-25|13:29|jakarta|36
+123456|Anisa|2022-03-09|13:28|Cibening|34.3

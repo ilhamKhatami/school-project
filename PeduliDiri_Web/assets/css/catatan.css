@@ -1,0 +1,50 @@
+#hero-content {
+  margin-top: 0px;
+  margin-bottom: 62px;
+}
+
+#hero-content {
+}
+
+#combobox {
+  width: 174px;
+  font-size: 19px;
+}
+
+#rowatas {
+  text-align: center;
+  height: 62px;
+}
+
+#urutan {
+  font-size: 16px;
+  width: 96.1875px;
+}
+
+#labelurut {
+  color: rgb(0,0,0);
+  font-family: Montserrat, sans-serif;
+}
+
+#container-table {
+  background: rgba(255,255,255,0.63);
+  border-radius: 22px;
+  height: 346px;
+}
+
+#btn {
+  background: rgba(0,0,0,0);
+  color: rgb(0,0,0);
+  font-family: Montserrat, sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  border-radius: 25px;
+  border: 1px outset rgb(0,0,0);
+}
+
+#headingnama {
+  font-size: 41px;
+  text-align: center;
+  color: rgb(0,0,0);
+}
+
